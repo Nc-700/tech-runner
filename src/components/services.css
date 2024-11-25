@@ -1,0 +1,26 @@
+.services {
+    padding: 3rem 1rem;
+    background-color: white;
+    text-align: center;
+  }
+  
+  .services h2 {
+    color: #0074d9;
+    margin-bottom: 2rem;
+  }
+  
+  .services ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .services li {
+    background: #f9f9f9;
+    padding: 1rem;
+    border-radius: 8px;
+    width: 200px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
